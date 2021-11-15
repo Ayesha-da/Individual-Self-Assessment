@@ -19,11 +19,19 @@ F1 Score = 92.12%
   I set up the app file that we need in order to work with our project. We had issues with that initially but TA Mounika and TA Rebekah helped us set it up and we were able to connect it to HTML file and it started working as expected.
 
 ## Team assessment
+Their communication protocol, including any
+challenges, how they were resolved, and what
+they would do differently next time
 
-
-
+✓ Their strengths as a team, including tips and
+tricks they would want to share with a new cohort
+kicking off the project
 
 ## Summary of the project
+Presents a cohesive, three- to four-sentence
+summary of the project that could be used on a
+LinkedIn profile, in an interview or cover letter, or
+as an elevator pitch, including all of the following:
 ### Topic addressed
 ### Machine module used
 ### Results of the analysis

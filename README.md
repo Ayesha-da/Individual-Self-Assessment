@@ -13,7 +13,7 @@ So I went back took out all the layers and started with a simple basic CNN model
 We tested the model on validation set of images that the model has never seen before.
 Finally we have a model that was giving us Accuracy = 89.42%, Precision = 86.16% , Recall = 98.97% , Specificity = 73.50% , F1 Score = 92.12%
 
-### Contribution other roles
+### Contribution to other roles
   I set up the app file that we need in order to work with our project. We had issues with that initially but TA Mounika and TA Rebekah helped us set it up and we were able to connect it to HTML file and it started working as expected.
 
 ## Team assessment

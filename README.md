@@ -16,7 +16,7 @@ Finally we have a model that was giving us Accuracy = 89.42%, Precision = 86.16%
 F1 Score = 92.12%
 
 ### Contribution to other roles
-  I set up the app file that we need in order to work with our project. We had issues with that initially but TA Mounika and TA Rebekah helped us set it up and we were able to connect it to HTML file and it started working as expected.
+  I set up the app file that we need in order to work with our project. We had issues with that initially but TA Mounika and TA Rebekah helped us set it up and we were able to connect it to HTML file and it started working as expected.We had many zoom meetings which we used to troubleshoot each others work.I tried helping others if the code isnot working at their end.
 
 ## Team assessment
 We had an awesome team. Each member of the team brought so much to the table. I learned so many new things from my teammates.I learnt how to affectively research and cohesively present information from Mathew. I learnt how to efficiently do preprocessing and getting the dataset up and running on the database from Nidhi.I learnt how to explore valuable information and organize all the details and present them in an engaging format from William.I also learnt good html formatting and styling from chelsea.

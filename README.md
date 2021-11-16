@@ -28,7 +28,7 @@ I think if given a chance we would like to add more time during live presentatio
 For the new cohort, I would be suggesting to start early and this way when they are already prepared about what they would like to do on a project, it will become much easier when it actually begins.There is limited time for the project and there will be so many issues to deal with. The earlier the project idea exploration starts, the better.
 
 ## Summary of the project
-
+ Our project will use CNN model to interpret chest x-ray images and classify them as normal or pneumonia.
 ### Topic addressed
 
 ### Machine module used

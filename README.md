@@ -23,7 +23,7 @@ We had an awesome team. Each member of the team brought so much to the table. I 
 
 Our main communication protocol was slack.We also had regular meetings on zoom graciously arranged by one of our team member William, where we discussed so many issues, troubleshoot and get things up and running.
 
-Given more time and resources we will work on a model that will put all other images in "Other" category.
+We had a little conflict on who will be presenting what section in live presentation and that was resolved when we came to a conclusion that each of us can present the section that they worked on so that will be accurate representation of individual work.
 I think if given a chance we would like to add more time during live presentation.All of us has worked so hard but due to very limited time for live presentation, we will not be getting the time required to present each section.
 
 For the new cohort, I would be suggesting to start early and this way when they are already prepared about what they would like to do on a project, it will become much easier when it actually begins.There is limited time for the project and there will be so many issues to deal with. The earlier the project idea exploration starts, the better.

@@ -30,8 +30,10 @@ For the new cohort, I would be suggesting to start early and this way when they 
 ## Summary of the project
  Our project will use CNN model to interpret chest x-ray images and classify them as normal or pneumonia.
 ### Topic addressed
-
+- The use case for generating this model is to develop a process to objectively analyze and interpret x-ray images with a rate of speed and accuracy that is potentially better than the human eye.
+- This model could be a valuable resource for doctors and students as another tool for interpreting x-ray images and validating/invalidating their personal diagnoses.
+Additionally, this model could be further applied to chest x-rays with diagnoses outside of pneumonia and be adapted to interpret the x-rays of patients with an array of diagnoses.
 ### Machine module used
 We used convolutional neural network (CNN/ConvNet), a class of deep neural networks, most commonly applied to analyze visual imagery. We are primarily working with images, and we need CNN model to take in these images, process them and give us the desired output by classifying them correctly as "Normal" or "Pneumonia".
 ### Results of the analysis
-We have a model that gives us about 89.45% accuracy and ROC curve accuracy of 96.29%
+We have a model that gives us about 89.45% accuracy and ROC curve accuracy of 96.29%. When we upload an image of a chest X_ray the model accurately classifies the image into "Normal" or "Pneumonia". 

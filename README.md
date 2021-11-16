@@ -32,5 +32,5 @@ For the new cohort, I would be suggesting to start early and this way when they 
 ### Topic addressed
 
 ### Machine module used
-
+We used convolutional neural network (CNN/ConvNet), a class of deep neural networks, most commonly applied to analyze visual imagery. We are primarily working with images, and we need CNN model to take in these images, process them and give us the desired output by classifying them correctly as "Normal" or "Pneumonia".
 ### Results of the analysis

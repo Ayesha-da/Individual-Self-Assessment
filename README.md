@@ -38,3 +38,6 @@ Additionally, this model could be further applied to chest x-rays with diagnoses
 We used convolutional neural network (CNN/ConvNet), a class of deep neural networks, most commonly applied to analyze visual imagery. We are primarily working with images, and we need CNN model to take in these images, process them and give us the desired output by classifying them correctly as "Normal" or "Pneumonia".
 ### Results of the analysis
 We have a model that gives us about 89.45% accuracy and ROC curve accuracy of 96.29%. When we upload an image of a chest X_ray the model accurately classifies the image into "Normal" or "Pneumonia". 
+
+Please click following link to visit our website.
+https://pneumonia-detection-analysis.herokuapp.com/
